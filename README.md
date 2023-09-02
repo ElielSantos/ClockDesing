@@ -9,6 +9,6 @@ acompanhe o horário com estilo!"
 <table>
   <tr>
     <td>
-      <img src="https://i.pinimg.com/originals/da/27/10/da2710ed4bfb600910aa7359bf0f511f.png">
+      <img src="https://i.pinimg.com/originals/20/1c/4e/201c4e22b3572f7d6656ed62a8b4dcf9.png">
     </td>
 </table>
