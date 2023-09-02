@@ -5,3 +5,10 @@ JavaScript. O relógio exibe horas, minutos e segundos em tempo real e possui um
 acompanhe o horário com estilo!"
 
 'https://relogiodigital-ebon.vercel.app/'
+
+<table>
+  <tr>
+    <td>
+      <img src="https://i.pinimg.com/originals/da/27/10/da2710ed4bfb600910aa7359bf0f511f.png">
+    </td>
+</table>
