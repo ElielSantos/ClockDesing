@@ -11,7 +11,7 @@ body {
     align-items: center;
     min-height: 100vh;
     background: black;
-    font-family: "Times New Roman", Times, serif;
+    font-family: 'Brush Script MT', 'Lucida Handwriting', cursive; /* Fontes manuscritas */
 }
 
 #clock {
