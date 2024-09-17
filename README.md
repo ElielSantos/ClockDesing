@@ -1,14 +1,10 @@
-#Relógio-Digital-UX.Design
+ ⏰ Relógio Digital - UX Design
+Um Relógio Digital simples e estiloso desenvolvido com HTML, CSS e JavaScript. Exibe horas, minutos e segundos em tempo real e inclui um botão para ativar o modo tela cheia. Experimente acompanhar o horário com estilo! 🎨✨
 
-Relógio Digital em HTML, CSS e JavaScript - Um simples projeto de relógio digital desenvolvido utilizando HTML, CSS e 
-JavaScript. O relógio exibe horas, minutos e segundos em tempo real e possui um botão para ativar a tela cheia. Experimente e 
-acompanhe o horário com estilo!"
+https://clock11.vercel.app
 
-'https://relogiodigital-ebon.vercel.app/'
-
-<table>
-  <tr>
-    <td>
-      <img src="https://i.pinimg.com/originals/20/1c/4e/201c4e22b3572f7d6656ed62a8b4dcf9.png">
-    </td>
-</table>
+🚀 Funcionalidades
+Exibição em tempo real de horas, minutos e segundos ⏱️
+Botão para modo tela cheia 🌐
+Design minimalista e focado em UX/UI 🎨
+Sinta-se à vontade para contribuir e experimentar! Feito com ❤️ por [Seu Nome].
